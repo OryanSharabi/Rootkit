@@ -1,0 +1,13 @@
+﻿  iathooker.cpp
+C:\Users\Oryan\Desktop\Mars\code and process injection\rootkit\IATHooking_64_DLL\Dll1\iathooker.cpp(86,22): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  apihook.cpp
+C:\Users\Oryan\Desktop\Mars\code and process injection\rootkit\IATHooking_64_DLL\Dll1\apihook.cpp(29,59): warning C4244: 'argument': conversion from 'const uint64_t' to 'SIZE_T', possible loss of data
+C:\Users\Oryan\Desktop\Mars\code and process injection\rootkit\IATHooking_64_DLL\Dll1\apihook.cpp(36,58): warning C4244: 'argument': conversion from 'const uint64_t' to 'SIZE_T', possible loss of data
+  dllmain.cpp
+  pch.cpp
+  Generating code
+  2 of 8 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Dll1.vcxproj -> C:\Users\Oryan\Desktop\Mars\code and process injection\rootkit\IATHooking_64_DLL\Release\Dll1.dll

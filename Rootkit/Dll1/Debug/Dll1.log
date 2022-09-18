@@ -1,0 +1,6 @@
+﻿  iathooker.cpp
+C:\Users\Oryan\source\repos\Dll1\Dll1\iathooker.cpp(73,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  dllmain.cpp
+  pch.cpp
+  Generating Code...
+  Dll1.vcxproj -> C:\Users\Oryan\source\repos\Dll1\Debug\Dll1.dll

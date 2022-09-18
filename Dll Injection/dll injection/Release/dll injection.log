@@ -1,0 +1,6 @@
+﻿  injector.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dll injection.vcxproj -> C:\Users\Oryan\Desktop\dll injection\Release\dll injection.exe
