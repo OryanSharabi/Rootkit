@@ -8,7 +8,7 @@ typedef struct _API_HOOK
     PVOID FunctionAddress;
     PVOID Hook;
     char OrigBytes[5];
-    LPVOID OrigFunction;
+    LPVOID OrigFunction; // Trampoline to the original function
 }API_HOOK, * PAPI_HOOK;
 
 
